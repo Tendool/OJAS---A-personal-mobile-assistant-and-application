@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ojas</string>
+    <string name="alarm_channel_name">Alarms</string>
+    <string name="alarm_channel_desc">Full-screen alarms that ring even when the display is off.</string>
+    <string name="reminder_channel_name">Reminders</string>
+    <string name="reminder_channel_desc">Timed reminders, calendar alerts and hydration nudges.</string>
+    <string name="focus_channel_name">Focus &amp; screen time</string>
+    <string name="focus_channel_desc">App time-limit warnings and focus session status.</string>
+    <string name="ongoing_channel_name">Ongoing</string>
+    <string name="ongoing_channel_desc">Quiet status notices while Ojas is watching your limits.</string>
+</resources>

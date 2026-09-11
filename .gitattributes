@@ -1,0 +1,11 @@
+# Normalise text in the repository; let Git pick the working-copy ending.
+* text=auto
+
+# The Gradle wrapper script is executed by sh on Linux/macOS and must stay LF
+# even when checked out on Windows.
+gradlew text eol=lf
+*.sh text eol=lf
+
+gradle/wrapper/gradle-wrapper.jar binary
+*.png binary
+*.jar binary
